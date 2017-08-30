@@ -5,6 +5,7 @@ Linear algebra library written in Go (nothing useful, just something to learn Go
 ## TODO
 
 - add more methods and functions
+- go back to the wise path of tdd
 - add and optimize error handling
 - documentation
 - ...
